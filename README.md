@@ -26,19 +26,19 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Data Model
 
 <p align="center">
-    <img src="https://github.com/aniyadav17/AtliQ-Hospitality-Analysis/blob/main/Resources/data_model_AG.png" height="400">
+    <img src="https://github.com/aniyadav17/AtliQ-Hospitality-Analysis/blob/main/Resources/Data_model.png" height="400">
 </p>
 
 ## Overall Analysis View
 
 <p align="center">
-    <img src="https://github.com/aniyadav17/AtliQ-Hospitality-Analysis/blob/main/Resources/overall_view.png" width="600">
+    <img src="https://github.com/aniyadav17/AtliQ-Hospitality-Analysis/blob/main/Resources/Overall_View.png" width="600">
 </p>
 
 ## Monthly Analysis View
 
 <p align="center">
-    <img src="https://github.com/aniyadav17/AtliQ-Hospitality-Analysis/blob/main/Resources/monthly_view.png" width="600">
+    <img src="https://github.com/aniyadav17/AtliQ-Hospitality-Analysis/blob/main/Resources/Monthly_View.png" width="600">
 </p>
 
 ## Learnt things from this Project 
