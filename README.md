@@ -41,6 +41,10 @@ You are a data analyst who has been provided with sample data and a mock-up dash
     <img src="https://github.com/aniyadav17/AtliQ-Hospitality-Analysis/blob/main/Resources/Monthly_View.png" width="600">
 </p>
 
+## Demo Video 
+[▶️ Watch Demo Video](https://www.youtube.com/watch?v=_sAUEU_yzMA)
+
+
 ## Learnt things from this Project 
 - Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze. ([Article referred](https://www.linkedin.com/pulse/calendar-matrix-syed-ahmed-ali/?trackingId=VgyLpo%2BYxVRs8tD03PXcPQ%3D%3D))
 - By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the booking is cancelled after that, the charge range from 60 to 90% of the booking cost.
